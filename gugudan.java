@@ -17,6 +17,9 @@ public class gugudan {
 				System.out.print("\n");
 			}
 		}
+		else if(dan<0) {
+			System.out.print("구구단 출력 불가");
+		}
 		else {
 		for(int i=1; i<10; i++) {
 			System.out.println(dan+" X "+i+" = "+dan*i);
