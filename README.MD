@@ -1,1 +1,1 @@
-"programming calculating pi using Leibniz series" 
+"gugudan printing & calculating pi program" 
