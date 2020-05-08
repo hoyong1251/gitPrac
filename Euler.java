@@ -9,7 +9,7 @@ public class Euler {
 		while(true) {
 			pi+=1/Math.pow(n, 2);
 			n++;
-			if(n==6000) {break;} //n값 증가하면 정확도 증가
+			if(n==6000) {break;} 
 		}
 		System.out.print(Math.sqrt(pi*6));
 	}
